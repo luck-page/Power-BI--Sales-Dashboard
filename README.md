@@ -89,6 +89,42 @@ name, product, promotion type, and date range.
 | 🔧 DAX | Custom measures and calculated columns |
 | ⚙️ Power Query | Data transformation and cleaning |
 
+
+
+## 🖥️ Dashboard Screenshots
+
+### Overview — Sales by City, Trends & Profit
+![Overview](overview.png)
+
+### Product Performance — Top & Bottom Products
+![Products](products.png)
+
+### Period Comparison — Sales, Profit & Quantity
+![Comparison](comparision.png)
+
 ---
 
-## 🗂️ Repository Structure
+## How to Open the Dashboard
+
+- ➡️ Download [Power BI Desktop](https://powerbi.microsoft.com/desktop/)
+- ➡️ Clone or download this repository
+- ➡️ Open Sales data Project 1.pbix
+- ➡️ Use filters to explore the data
+
+---
+
+## What I Learned
+
+- ✅ Building multi-page interactive dashboards in Power BI
+- ✅ Writing DAX measures for profit margins and net sales
+- ✅ Designing user-friendly slicers and filter panels
+- ✅ Using scatter plots, maps, bar charts and trend lines
+- ✅ Comparing time periods using dual date filter slicers
+
+---
+
+## Author
+
+**Luck** — Aspiring Data Analyst | Computer Science Student
+Austin, Texas
+➡️ [GitHub Profile](https://github.com/luck-page)
